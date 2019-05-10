@@ -22,11 +22,6 @@
         ctxVert.fillText(['Vertíce',xv,yv],xv+50,yv+50);
         ctxVert.closePath();
     }
-    function f_(x)
-    {
-        return yt(50*Math.cos(x));
-    }
-
     function yt(y)
     {
         return -5*y/2;
