@@ -1,4 +1,4 @@
-function soma(){
+function F2grau(){
     let a = document.getElementById("a");
     let b = document.getElementById("b");
     let c = document.getElementById("c");
